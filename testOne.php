@@ -1,1 +1,1 @@
- first data for git php
+ first data for git phpScientifically speaking, a tomato is definitely a fruit. True fruits are developed from the ovary in the base of the flower, and contain the seeds of the plant (though cultivated forms may be seedless). Blueberries, raspberries, and oranges are true fruits, and so are many kinds of nut.
